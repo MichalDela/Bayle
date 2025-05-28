@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="Repo" name="Bayle" version="1.0" provider-name="DelaMichal">
+<addon id="Repo" name="Bayle" version="1.0" provider-name="MichalDela">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/DELAMICHAL/BAYLE/MASTER/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/DELAMICHAL/BAYLE/MASTER/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/DELAMICHAL/BAYLEE/MASTER/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/MichalDela/Bayle/MASTER/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/MichalDela/Bayle/MASTER/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/MichalDela/Bayle/MASTER/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
