@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.baylerep" name="BayleRepo" version="1.0.0" provider-name="MD">
+    <extension point="xbmc.addon.repository" name="BayleRepo">
+        <dir minversion="2.0.0">
+            <info compressed="false">https://raw.githubusercontent.com/MichalDela/Bayle/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/MichalDela/Bayle/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/MichalDela/Bayle/master/repo/zips</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>F and S</summary>
+        <description>F and S</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <source>https://github.com/MichalDela/Bayle</source>
+    </extension>
+</addon>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+    <addon id="plugin.video.eagle.blvck" name="Eagle Blvck" version="1.0" provider-name="MichalDela">
+        <extension point="xbmc.addon.video">
+            <provides>movies</provides>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>World TV</summary>
+            <description>Svetové TV kanály a obsah</description>
+            <platform>all</platform>
+        </extension>
+    </addon>
+    <addon id="plugin.video.freeview.sk" name="Freeview SK" version="1.0" provider-name="MichalDela">
+        <extension point="xbmc.addon.video">
+            <provides>movies</provides>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Freeview TV</summary>
+            <description>Slovenské TV kanály a obsah</description>
+            <platform>all</platform>
+        </extension>
+    </addon>
+    <addon id="plugin.video.richmovie" name="RichMovie" version="2.4.74" provider-name="MichalDela">
+        <extension point="xbmc.addon.video">
+            <provides>movies</provides>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Filmy a Seriály</summary>
+            <description>Streamovanie filmov a seriálov</description>
+            <platform>all</platform>
+        </extension>
+    </addon>
+    <addon id="plugin.video.sktonline" name="SKT Online" version="1.0" provider-name="MichalDela">
+        <extension point="xbmc.addon.video">
+            <provides>movies</provides>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Filmy a Seriály</summary>
+            <description>Online prehrávanie filmov a seriálov</description>
+            <platform>all</platform>
+        </extension>
+    </addon>
+    <addon id="plugin.video.stream.cinema" name="Stream Cinema" version="1.0" provider-name="MichalDela">
+        <extension point="xbmc.addon.video">
+            <provides>movies</provides>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Filmy a Seriály</summary>
+            <description>Streaming kinematických diel</description>
+            <platform>all</platform>
+        </extension>
+    </addon>
+</addons>
